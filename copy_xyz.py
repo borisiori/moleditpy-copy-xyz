@@ -12,6 +12,7 @@ PLUGIN_NAME = "Copy XYZ"
 PLUGIN_VERSION = "2026.11.01"
 PLUGIN_SUPPORTED_MOLEDITPY_VERSION = ">=5.0.0, <6.0.0"
 PLUGIN_AUTHOR = "borisiori"
+PLUGIN_LICENSE = "LGPL-3.0-or-later"
 PLUGIN_DESCRIPTION = "Show the current 3D structure as XYZ coordinates in a dialog and copy them to the clipboard"
 PLUGIN_DEPENDENCIES = ["rdkit", "PySide6-Essentials"]
 PLUGIN_CONTEXT = None
